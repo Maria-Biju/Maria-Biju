@@ -1,15 +1,20 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;AI%2FML+Enthusiast;Future+Software+Engineer)
 # Hi 👋, I'm Maria
 
+![Profile views](https://komarev.com/ghpvc/?username=Maria-Biju)
+
 ## 👩‍💻 About Me
+
 - 🎓 Computer Science Engineering student  
 - 💡 Interested in AI/ML and Web Development  
 - 🚀 Passionate about building real-world projects  
 - 🎯 Goal: Become a Software Engineer  
 
 ## 🛠️ Tech Stack
-- Languages: C, Java, SQL, JavaScript,    Python  
-- Web: HTML5, CSS  
-- Tools: Git, GitHub  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,git,github" />
+</p>
 
 ## 🚀 Projects
 
