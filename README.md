@@ -65,8 +65,7 @@
 
 - A structured decision-support system designed to assist users in making better choices  
 - Breaks down decision-making into logical steps for clarity and transparency  
-- Helps users evaluate options, compare outcomes, and reduce decision bias  
-- Built as part of a Vonnue assessment project  
+- Helps users evaluate options, compare outcomes, and reduce decision bias    
 - Focuses on improving reasoning and structured thinking  
 
 ## 🏆 Achievements
